@@ -1,16 +1,17 @@
 # Grupo-3
-Proyecto final de HTML & CSS
+## Proyecto final de HTML & CSS
+### Bellezas Turísticas de Costa Rica
 
 Estudiantes:
- 1
- 2
- 3
- 4
- Soto Rojas Nathalie Cristina
+* Nombre
+* Nombre
+* Nombre
+* Nombre
+* Soto Rojas Nathalie Cristina
 
-Certificacion Profesional en Front-End, Certificacion Profesional en Front-End
+Academia de Tecnología UCR, Certificación Profesional en Front-End
 
-Modulo 1: HTML & CSS
+Módulo 1: HTML & CSS
 
 Profesor William Morales
 
