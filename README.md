@@ -6,7 +6,7 @@ Estudiantes:
 * Nombre
 * Nombre
 * Nombre
-* Nombre
+* Alejandro Castro Vásquez.
 * Soto Rojas Nathalie Cristina
 
 Academia de Tecnología UCR, Certificación Profesional en Front-End
