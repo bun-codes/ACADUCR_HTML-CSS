@@ -1,0 +1,8 @@
+.card-body .btn{
+    background-color: #015238;
+    color: #F5EFD2;
+}
+.card-body .btn:hover{
+    background-color: #F5EFD2;
+    color: #015238;
+}
