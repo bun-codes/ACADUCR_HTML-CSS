@@ -5,7 +5,7 @@
 Estudiantes:
 * Nombre
 * Nombre
-* Nombre
+* Castro Villegas Kendall
 * Castro Vásquez Alejandro
 * Soto Rojas Nathalie Cristina
 
