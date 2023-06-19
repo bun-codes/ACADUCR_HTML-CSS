@@ -5,8 +5,8 @@
 Estudiantes:
 * Nombre
 * Nombre
-* Nombre
 * Castro Vásquez Alejandro
+* Castro Villegas Kendall
 * Soto Rojas Nathalie Cristina
 
 Academia de Tecnología UCR, Certificación Profesional en Front-End
