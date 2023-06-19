@@ -6,11 +6,22 @@ BEIGE: #F5EFD2
 NARANJA: #F1C27B
 */
 
-/*NAVIGATION*/
+/*PAGINA 1*/
+/*Navigation*/
 .navbar {
     background-color: #F5EFD2;
 }
 
+/*Hero*/
+body, html {
+    height: 100%;
+}
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), url(img_banner1.png));
+}
+
+/**/
 .card-body .btn{
     background-color: #015238;
     color: #F5EFD2;
@@ -18,4 +29,10 @@ NARANJA: #F1C27B
 .card-body .btn:hover{
     background-color: #F5EFD2;
     color: #015238;
+}
+
+/*Footer*/
+.footer {
+    color: #F5EFD2;
+    background-color: #015238;
 }
