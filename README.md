@@ -4,7 +4,7 @@
 
 Estudiantes:
 * Nombre
-* Nombre
+* Arce Jimenez Rafael Steven
 * Castro Vásquez Alejandro
 * Castro Villegas Kendall
 * Soto Rojas Nathalie Cristina
