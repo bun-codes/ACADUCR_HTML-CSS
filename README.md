@@ -3,7 +3,7 @@
 ### Bellezas Turísticas de Costa Rica
 
 Estudiantes:
-* Nombre
+* Amanda Waleska Morales Torres
 * Arce Jimenez Rafael Steven
 * Castro Vásquez Alejandro
 * Castro Villegas Kendall
