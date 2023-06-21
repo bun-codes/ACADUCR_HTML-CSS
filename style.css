@@ -36,3 +36,48 @@ footer {
     color: #F5EFD2;
     background-color: #015238;
 }
+
+
+/* PAGINA 3 */
+#cotizaciones-form{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 45px;
+}
+#cotizaciones-form .titulo-contacto{
+    margin-top: 45px;
+    font-size: 30px;
+    color: #015238;
+    text-align: center;
+}
+#cotizaciones-form .form-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+    font-size: 18px;
+    font-weight: 700;
+}
+#cotizaciones-form form input, #cotizaciones-form form textarea{
+    font-size: 16px;
+    display: block;
+    padding: 10px;
+    margin: 15px;
+    width: 500px;
+    resize: none;
+    border-radius: 10px;
+    border: 1px solid #015238;
+    outline: none;
+}
+#cotizaciones-form form input[type="button"]{
+    width: 520px; 
+    background: #f1c27b;
+    color: #f5efd2;
+    font-size: 1.2em;
+    cursor: pointer
+}
+/* PAGINA 3 */
