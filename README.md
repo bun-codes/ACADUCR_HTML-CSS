@@ -3,10 +3,10 @@
 ### Bellezas Turísticas de Costa Rica
 
 Estudiantes:
-* Amanda Waleska Morales Torres
 * Arce Jimenez Rafael Steven
 * Castro Vásquez Alejandro
 * Castro Villegas Kendall
+* Morales Torres Amanda Waleska
 * Soto Rojas Nathalie Cristina
 
 Academia de Tecnología UCR, Certificación Profesional en Front-End
