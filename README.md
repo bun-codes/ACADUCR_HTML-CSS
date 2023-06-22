@@ -21,6 +21,9 @@ Entrega: 22 de junio del 2023
 Logo:
 https://www.tuktuklex.com/
 
+Imágenes
+https://elevation.maplogs.com/poi/parque_nacional_manuel_antonio_provincia_de_puntarenas_cant_n_de_aguirre_costa_rica.355658.html
+
 ### INSTRUCCIONES
 - Trabajar en GitHub (15 pts) ✔️
 - Dar acceso al repositorio al profesor (15 pts) ✔️
