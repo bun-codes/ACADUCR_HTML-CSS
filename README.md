@@ -30,7 +30,7 @@ https://elevation.maplogs.com/poi/parque_nacional_manuel_antonio_provincia_de_pu
 - Mínimo 3 páginas de HTML, linkeadas en el nav bar (15 pts) ✔️
 - Máximo 1 página de CSS para todo el website (15 pts) ✔️
 - Utilizar Bootstrap (15 pts) ✔️
-- Al menos 1 página utilizando Flexbox (10 pts) EN PROGRESO
-- Al menos 1 página con una lista, una tabla y un formulario (5 pts) EN PROGRESO
+- Al menos 1 página utilizando Flexbox (10 pts) ✔️
+- Al menos 1 página con una lista, una tabla y un formulario (5 pts) ✔️
 - Imágenes en todas las páginas (5 pts) EN PROGRESO
 - Al menos 1 página con 1 video (5 pts) ✔️

@@ -40,6 +40,32 @@ body, html {
     color: #015238;
 }
 
+/*Lista*/
+.lista {
+    display: flex;
+    justify-content: center;
+}
+
+a:link {
+    color: #015238;
+}
+
+a:hover {
+    color: #BCCAAE;
+}
+
+/*Horarios*/
+.horarios {
+    display: flex;
+    justify-content: center;
+}
+
+table, tr, th, td, caption {
+    border: 1px #BCCAAE;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
 /*Footer*/
 footer {
     color: #F5EFD2;
@@ -90,7 +116,37 @@ footer {
     cursor: pointer
 }
 /* PAGINA 3 */
-
-a:hover {
+#cotizaciones-form{
+    background-color: white;
+    font-size: 16px;
+    display: block;
+    padding: 20px;
+    margin: 80px 90px;
+    width: 100;
+    border-radius: 10px;
+    border: 1px solid #015238;
+}
+.main-title{
+    margin-top: 45px;
+    margin-bottom: 45px;
+    font-size: 30px;
     color: #015238;
+    text-align: center;
+}
+
+#formulario-cotizar .row {
+    margin: 20px 0;
+}
+
+/* Boton */
+.btn {
+    width: 25%;
+    margin: 10px 340px;
+    background: #fff;
+    color: #015238;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #015238;
 }
