@@ -109,3 +109,7 @@ footer {
 .btn-formulario .btn:hover {
     background-color: #015238;
 } 
+.carousel-inner img {
+    width: 100%;
+    max-height: 700px;
+}
