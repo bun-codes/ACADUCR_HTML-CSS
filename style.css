@@ -90,3 +90,7 @@ footer {
     cursor: pointer
 }
 /* PAGINA 3 */
+
+a:hover {
+    color: #015238;
+}
