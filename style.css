@@ -66,12 +66,6 @@ a:hover {
     justify-content: center;
 }
 
-table, tr, th, td, caption {
-    border: 1px #BCCAAE;
-    border-collapse: collapse;
-    padding: 0.5rem;
-}
-
 /*Footer*/
 footer {
     color: #F5EFD2;
