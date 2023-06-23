@@ -60,6 +60,11 @@ a:hover {
     justify-content: center;
 }
 
+.contacto {
+    display: flex;
+    justify-content: center;
+}
+
 table, tr, th, td, caption {
     border: 1px #BCCAAE;
     border-collapse: collapse;
