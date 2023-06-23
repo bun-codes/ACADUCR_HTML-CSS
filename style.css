@@ -54,13 +54,14 @@ a:hover {
     color: #BCCAAE;
 }
 
-/*Horarios*/
-.horarios {
+/*Contacto*/
+.dato {
     display: flex;
     justify-content: center;
 }
 
-.contacto {
+/*Horarios*/
+.horarios {
     display: flex;
     justify-content: center;
 }
