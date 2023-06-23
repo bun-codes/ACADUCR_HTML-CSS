@@ -32,5 +32,5 @@ https://elevation.maplogs.com/poi/parque_nacional_manuel_antonio_provincia_de_pu
 - Utilizar Bootstrap (15 pts) ✔️
 - Al menos 1 página utilizando Flexbox (10 pts) ✔️
 - Al menos 1 página con una lista, una tabla y un formulario (5 pts) ✔️
-- Imágenes en todas las páginas (5 pts) EN PROGRESO
+- Imágenes en todas las páginas (5 pts) ✔️
 - Al menos 1 página con 1 video (5 pts) ✔️
