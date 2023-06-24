@@ -1,4 +1,4 @@
-# Grupo-3
+# ACADUCR Grupo-3
 ## Proyecto final de HTML & CSS
 ### Bellezas Turísticas de Costa Rica
 
